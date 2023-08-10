@@ -16,7 +16,5 @@ Gameplay~~
 ![rozgrywka 3](https://github.com/grocik/TowerDefence-First-Game-UE-2022/assets/77440858/e680522d-0ad2-4937-b8d1-f2bccb760f6c)
 
 # Gameplay movie 
-
-
 https://github.com/grocik/TowerDefence-First-Game-UE-2022/assets/77440858/8b5ab45b-e7a5-4333-8a2a-3afec506cc12
 
